@@ -1,7 +1,7 @@
 # Full-Stack-Web-Development-Bootcamp
 Projects from 'The Complete Full-Stack Web Development Bootcamp' by Dr. Angela Yu
 
-📌 Sektion 1: Web-Grundlagen (Web Fundamentals)
+📌 **Sektion 1: Web-Grundlagen (Web Fundamentals)**
 
 ### 🌐 Funktionsweise des Internets
 * Infrastruktur-Verständnis: Grundlegende Analyse der Funktionsweise des Internets und der Datenübertragung.
