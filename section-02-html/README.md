@@ -1,5 +1,6 @@
 Section 2
-## 🧱 HTML Heading Elements  
+
+##  HTML Heading Elements  
 📌 Anatomie eines Elements
 Ein HTML-Element definiert sich durch den Opening Tag (z. B. <h1>), den Content (eingebetteter Inhalt) und den Closing Tag (z. B. </h1>).
 🔍 Differenzierung
@@ -9,7 +10,7 @@ Headings dienen der logischen Strukturierung eines Dokuments und sind vergleichb
 🖥️ Browser-Rendering
 Standardmäßig stellt der Browser Headings absteigend dar, wobei <h1> die größte und <h6> die kleinste Darstellung hat.
 
-## 🧱 HTML Paragraph-Element 
+## HTML Paragraph-Element 
 - 📄 Einführung in das **Paragraph-Element (`<p>`)**, das zur Formatierung und Trennung von Text auf Webseiten verwendet wird
 - 🏗️ Aufbau eines Paragraph-Elements:
   - 🔓 Öffnender Tag: `<p>`
@@ -34,7 +35,7 @@ Standardmäßig stellt der Browser Headings absteigend dar, wobei <h1> die grö�
   - Spaßige Varianten wie `baconipsum.com` oder `broipsum.com`
 - 📝 Einsatz von Lorem Ipsum zur Übung beim Erstellen von Artikeln mit dem `<p>`-Element
 
-- 🧱 HTML Void Elements — Zusammenfassung
+## HTML Void Elements — Zusammenfassung
 Diese Lektion führt in HTML Void Elements ein. Dabei handelt es sich um Elemente, die keinen Inhalt (Content) enthalten dürfen und nicht aus einem separaten Opening- und Closing-Tag bestehen wie Non-Void-Elemente (z. B. <p>, <h1>). Stattdessen werden Void Elements als einzelnes, selbstschließendes Tag verwendet.
 🔹 Void Elements in dieser Einheit
 <hr /> dient zur Erstellung einer horizontalen Trennlinie, mit der inhaltlich nicht zusammengehörige Bereiche visuell voneinander abgegrenzt werden.
@@ -43,7 +44,7 @@ Diese Lektion führt in HTML Void Elements ein. Dabei handelt es sich um Element
 Void Elements enthalten keinen Content und besitzen keinen separaten Closing-Tag. Üblicherweise werden sie mit einem Forward Slash geschrieben, zum Beispiel <hr /> oder <br />. Dabei ist darauf zu achten, dass ein Forward Slash (/) und kein Backslash (\) verwendet wird. In HTML5 ist es zwar erlaubt, <hr> oder <br> ohne Slash zu schreiben, die Verwendung von / wird jedoch empfohlen, da sie den Code für Menschen besser lesbar und verständlicher macht.
 
 🎬 Project: Movie Ranking List
-🧱 Erforderliche HTML-Struktur für das Projekt
+## Erforderliche HTML-Struktur für das Projekt
 Dieses Projekt muss mindestens die folgenden HTML-Elemente enthalten:
 <h1> zur Darstellung des Website-Titels als Hauptüberschrift,
 <h2> für eine kurze Beschreibung oder einen Untertitel,
