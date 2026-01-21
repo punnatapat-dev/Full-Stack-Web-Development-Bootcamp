@@ -115,3 +115,7 @@
 - ✅ **Best Practice**
   - `alt` immer setzen, wenn das Bild inhaltlich relevant ist
   - Dekorative Bilder können ein leeres `alt=""` haben
+ 
+    
+🌍 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-03-intermediate-html/
