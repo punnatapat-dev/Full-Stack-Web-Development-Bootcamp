@@ -107,3 +107,6 @@ Das Projekt muss mindestens folgende Elemente enthalten:
 - Einsatz von Void Elements zur visuellen Strukturierung
 - Erstellung einer einfachen HTML-Webseite von Grund auf
 - Selbstständige Erweiterung und Weiterentwicklung der Seite
+
+🌍 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-02-html/
