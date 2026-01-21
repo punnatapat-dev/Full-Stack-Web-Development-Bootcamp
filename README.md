@@ -3,10 +3,27 @@
 Projects and learning notes from  
 *The Complete Full-Stack Web Development Bootcamp* by Dr. Angela Yu.
 
+---
+
 ## 📌 Kursübersicht
 
-- 🔹 [Sektion 1: Web-Grundlagen](./section-01-web-fundamentals/)
-- 🔹 [Sektion 2: HTML Grundlagen](./section-02-html/)
-  - 👉 [HTML Movie Ranking Project](./section-02-html/index.html)
-- 🔹 [Sektion 3: Intermediate HTML](./section-03-intermediate-html/)
-  - 👉 [HTML Intermediate Projects](./section-03-intermediate-html/index.html)
+### 🔹 Section 1: Web-Grundlagen
+- 📘 [Web Fundamentals – Notes](./section-01-web-fundamentals/)
+
+---
+
+### 🔹 Section 2: HTML Grundlagen
+- 📘 [HTML Grundlagen – Notes](./section-02-html/)
+- 🎬 **Movie Ranking Project**
+  - 🧩 [Source Code](./section-02-html/index.html)
+  - 🌍 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-02-html/
+
+---
+
+### 🔹 Section 3: Intermediate HTML
+- 📘 [Intermediate HTML – Notes](./section-03-intermediate-html/)
+- 🎉 **HTML Intermediate Projects (IHK Invite)**
+  - 🧩 [Source Code](./section-03-intermediate-html/index.html)
+  - 🌍 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-03-intermediate-html/
