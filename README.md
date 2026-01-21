@@ -8,3 +8,6 @@ Projects and learning notes from
 - 🔹 [Sektion 1: Web-Grundlagen](./section-01-web-fundamentals)
 - 🔹 [Sektion 2: HTML Grundlagen](./section-02-html)
   - 👉 [HTML Movie Ranking Project](./section-02-html/index.html)
+- 🔹 Sektion 3: Intermediate HTML
+  - 👉 [HTML Intermediate Projects](./section-03-intermediate-html/)
+
