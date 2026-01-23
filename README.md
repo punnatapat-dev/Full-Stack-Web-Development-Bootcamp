@@ -27,6 +27,8 @@ Projects and learning notes from
   - 🧩 [Source Code](./section-03-intermediate-html/index.html)
   - 🌍 **Live Demo:**  
     https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-03-intermediate-html/
+    
+---
 
 ### 🔹 Section 4: Multi-Page Websites
 - 📘 [Multi-Page Websites – Notes](./section-04-multi-page-websites/)
