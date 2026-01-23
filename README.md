@@ -32,7 +32,7 @@ Projects and learning notes from
 
 ### 🔹 Section 4: Multi-Page Websites
 - 📘 [Multi-Page Websites – Notes](./section-04-multi-page-websites/)
-- 🎉 **My Online Resume Projects (My Resume)**
+- 📜**My Online Resume Projects (My Resume)**
   - 🧩 [Source Code](./section-04-multi-page-websites/index.html)
   - 🌍 **Live Demo:**  
     https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-04-multi-page-websites/
