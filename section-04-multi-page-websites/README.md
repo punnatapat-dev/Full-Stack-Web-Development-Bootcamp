@@ -77,7 +77,7 @@ Beispiel:
 - Klick auf das Bild führt zu einer anderen Seite  
 
 Beispiel:  
-<a href="./contact.html">
+<a href="./about.html">
   <img src="./assets/picme.png" alt="Profilbild" width="200">
 </a>
 
