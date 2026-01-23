@@ -78,7 +78,7 @@ Beispiel:
 
 Beispiel:  
 <a href="./contact.html">
-  <img src="./assets/picme.png" alt="Profilbild">
+  <img src="./assets/picme.png" alt="Profilbild" width="200">
 </a>
 
 
