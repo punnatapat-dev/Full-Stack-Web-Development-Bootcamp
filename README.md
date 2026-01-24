@@ -36,3 +36,13 @@ Projects and learning notes from
   - 🧩 [Source Code](./section-04-multi-page-websites/index.html)
   - 🌍 **Live Demo:**  
     https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-04-multi-page-websites/
+
+---
+
+### 🔹 Section 5: Introduction to CSS
+
+- 📘 [Introduction to CSS – Notes](./section-05-introduction-to-css/)
+- 🎨 **Color Vocabulary Project**
+  - 🧩 [Source Code](./section-05-introduction-to-css/index.html)
+  - 🌍 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-05-introduction-to-css/
