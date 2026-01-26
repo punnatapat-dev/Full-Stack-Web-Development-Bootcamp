@@ -1,0 +1,36 @@
+/* Page background + default text */
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  font-family: "Libre Baskerville", serif;
+}
+
+/* Center the whole poster */
+.poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px; 
+  text-align: center;
+}
+
+/* Image with white border */
+.poster-image {
+  width: 100%;
+  border: 5px solid white;
+  box-sizing: border-box; 
+
+/* Main title */
+h1 {
+  text-transform: uppercase;
+  font-size: 2.2rem;
+  margin: 18px 0 10px;
+  letter-spacing: 2px;
+}
+
+/* Subtitle text */
+p {
+  margin: 0;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
