@@ -254,3 +254,8 @@ Ein div ist unsichtbar und dient als Container, um mehrere Elemente gemeinsam zu
 Im Chrome Developer Tool zeigt der Inspector das Box Model visuell an.  
 Dort sind Margin, Border, Padding und Content farblich dargestellt und können live angepasst werden.
 
+---
+
+🌍 **Live Demo:**  
+https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-06-css-properties/
+
