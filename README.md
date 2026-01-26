@@ -46,3 +46,14 @@ Projects and learning notes from
   - 🧩 [Source Code](./section-05-introduction-to-css/index.html)
   - 🌍 **Live Demo:**  
     https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-05-introduction-to-css/
+
+---
+
+### 🔷 Section 6: CSS Properties
+
+- 📘 **[CSS Properties – Notes](./section-06-css-properties/)**
+- 🖼️ **Motivational Poster Project**
+  - 🧩 [Source Code](./section-06-css-properties/index.html)
+  - 🌐 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-06-css-properties/
+
