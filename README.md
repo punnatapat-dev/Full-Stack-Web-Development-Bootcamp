@@ -57,3 +57,13 @@ Projects and learning notes from
   - 🌐 **Live Demo:**  
     https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-06-css-properties/
 
+---
+
+### 🔷 Section 7: Intermediate CSS
+
+- 📘 **[Intermediate CSS – Notes](./section-07-intermediate-css/)**
+- 🖼️ **das Flaggenprojekt**
+  - 🧩 [Source Code](./section-07-intermediate-css/index.html)
+  - 🌐 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-07-intermediate-css/
+
