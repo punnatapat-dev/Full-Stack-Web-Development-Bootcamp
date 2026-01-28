@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #eee;
+  font-family: serif;
+}
+
+/* ธงรวม */
+.flag {
+  width: 900px;
+  height: 600px;
+  margin: 20px auto;
+}
+
+/* แถบ */
+.stripe {
+  width: 100%;
+}
+
+/* สี + ความสูง (1:1:2:1:1 ของธงไทย) */
+.red {
+  height: 100px;
+  background: #A51931;
+}
+
+.white {
+  height: 100px;
+  background: white;
+}
+
+.blue {
+  height: 200px;
+  background: #2D2A4A;
+  position: relative; /* พ่อของวงกลม */
+}
+
+/* ข้อความด้านบน */
+.top-text {
+  color: white;
+  text-align: center;
+  font-size: 90px;
+  line-height: 100px; /* ให้กลางแถบแดงบน */
+}
+
+/* วงกลม */
+.circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: white;
+
+  display: grid;
+  place-items: center;
+}
+
+/* ข้อความในวงกลม */
+.circle-text {
+  color: #111;
+  text-align: center;
+  font-size: 52px;
+  line-height: 1.0;
+}
