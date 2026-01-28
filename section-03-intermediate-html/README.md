@@ -2,7 +2,7 @@
 
 ---
 
-## 🔑 HTML List Elements — Zentrale Punkte
+## 🔑 HTML List Elements 
 
 - 📋 **HTML kennt zwei Arten von Listen**
   - 🔹 **`<ul>` (ungeordnete Liste)**  
