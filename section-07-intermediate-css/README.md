@@ -275,4 +275,4 @@ Wer weiß, wozu ein Element relativ ist,
 kann Layout-Probleme gezielt und sicher lösen.
 
 🌍 **Live Demo:**  
-    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-03-intermediate-html/
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-07-intermediate-css/
