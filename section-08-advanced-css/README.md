@@ -1,4 +1,4 @@
-# 📘 Abschnitt 8: Advanced CSS & Responsive Design
+# 📘 Section 8: Advanced CSS 
 
 ## 📌 CSS Display Property 
 Die CSS-Eigenschaft `display` bestimmt das Anzeigeverhalten und das Layout von Elementen auf einer Webseite.
