@@ -67,3 +67,12 @@ Projects and learning notes from
   - 🌐 **Live Demo:**  
     https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-07-intermediate-css/
 
+---
+
+### 🔷 Section 8: Advanced CSS
+
+- 📘 **[Advanced CSS – Notes](./section-08-advanced-css/)**
+- 🖼️ ****Projekt: Responsive Webdesign-Agentur****
+  - 🧩 [Source Code](./section-08-advanced-css/index.html)
+  - 🌐 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-08-advanced-css/
