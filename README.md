@@ -76,3 +76,14 @@ Projects and learning notes from
   - 🧩 [Source Code](./section-08-advanced-css/index.html)
   - 🌐 **Live Demo:**  
     https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-08-advanced-css/
+
+---
+
+### 🔷 Section 9: 📦 CSS Flexbox
+
+- 📘 **[CSS Flexbox – Notes](./section-09-flexbox/)**
+
+- 🧮 ****Projekt: Flexbox Preistabelle****
+  - 🧩 [Source Code](./section-09-flexbox/index.html)
+  - 🌐 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-09-flexbox/
