@@ -106,3 +106,118 @@ Beispiele:
 - `align-items` → Ausrichtung der Items entlang der **Cross Axis**  
 - `align-content` → Ausrichtung von Item-Gruppen / Zeilen (nur mit Wrap)
 
+---
+
+## 🧩 Flexbox Layout 
+Flexbox bietet viele Eigenschaften zur Erstellung flexibler und responsiver Layouts.  
+Dabei ist es sehr wichtig, zwischen **Properties für den Parent (Container)** und **Properties für die Child-Elemente (Flex Items)** zu unterscheiden, da sie sonst nicht korrekt funktionieren.
+
+🔢 **Properties für Child (Flex Items)**
+
+**order**  
+Ändert die Reihenfolge der Flex Items  
+- Standardwert: `0` → Reihenfolge gemäß HTML  
+- Höherer Wert → Element wird weiter nach hinten verschoben  
+
+**align-self**  
+- Richtet ein einzelnes Flex Item unabhängig von den anderen aus  
+- Überschreibt die Einstellung von `align-items`
+
+📦 **Properties für Parent (Container)**
+
+**flex-wrap**
+- `nowrap` (Standard) → Kein Zeilenumbruch  
+- `wrap` → Items umbrechen in die nächste Zeile  
+- `wrap-reverse` → Umbruch mit umgekehrter Richtung  
+
+**justify-content (Main Axis)**  
+Steuert die Verteilung der Items entlang der Hauptachse  
+Häufige Werte:  
+`flex-start`, `flex-end`, `center`,  
+`space-between`, `space-around`, `space-evenly`
+
+**align-items (Cross Axis)**  
+- Richtet Items entlang der Querachse aus  
+- Die Höhe des Containers muss gesetzt sein, damit der Effekt sichtbar wird  
+Beispiele:  
+`flex-start`, `flex-end`, `center`, `stretch`
+
+**align-content**  
+- Richtet mehrere Zeilen von Flex Items aus  
+- Funktioniert nur, wenn `flex-wrap: wrap` aktiviert ist
+
+🧠 **Wichtige Konzepte**
+- `justify-content` → Ausrichtung entlang der **Main Axis**  
+- `align-items` → Ausrichtung einzelner Items entlang der **Cross Axis**  
+- `align-content` → Ausrichtung von Zeilengruppen (nur bei Wrap)
+
+---
+
+## 📐 Flexbox Sizing
+
+Flexbox ermöglicht eine flexible Größensteuerung von Elementen durch **Wachsen (grow)** und **Schrumpfen (shrink)**  
+und eignet sich ideal für responsive Layouts.
+
+🧮 **Priorität bei der Größenberechnung**
+
+Flexbox bestimmt die Größe eines Flex-Items in folgender Reihenfolge:
+1. `min-width` / `max-width`
+2. `flex-basis`
+3. `width` / `height`
+4. Größe des Inhalts (Content Size)
+
+📦 **Standardverhalten**
+- Flex Items richten sich standardmäßig nach der Inhaltsgröße
+- Elemente können schrumpfen, aber nicht automatisch wachsen
+- Die minimale Größe wird durch das längste Wort bestimmt
+
+📏 **width vs. flex-basis**
+- `width` definiert eine feste Größe
+- `flex-basis` definiert die Startgröße entlang der **Main Axis**
+- Ist `flex-basis` gesetzt, wird `width` ignoriert
+
+🔒 **max-width / 🔓 min-width**
+- `max-width` begrenzt die maximale Wachstumsgröße
+- `min-width` begrenzt die minimale Schrumpfgröße
+- Wenn `min-width` > `flex-basis` → `min-width` wird verwendet
+- Wenn `max-width` < `flex-basis` → `max-width` wird verwendet
+
+🌱 **flex-grow / flex-shrink**
+- `flex-grow` → erlaubt das Wachsen eines Items
+- `flex-shrink` → erlaubt das Schrumpfen eines Items
+
+Standardwerte:
+- `flex-grow: 0;`
+- `flex-shrink: 1;`
+
+Häufige Kombinationen:
+
+`flex-grow: 1;`  
+`flex-shrink: 1;`  
+→ Item wächst und schrumpft flexibel
+
+`flex-grow: 0;`  
+`flex-shrink: 0;`  
+→ Feste Größe, keine Flexibilität
+
+⚙️ **flex-basis: auto vs. 0**
+- `auto` (Standard) → Items mit mehr Inhalt erhalten mehr Platz
+- `0` → Alle Items starten gleich breit (sehr gebräuchlich)
+
+✨ **Shorthand für Flex**
+
+`flex: 1;`
+
+entspricht:
+- `flex-grow: 1;`
+- `flex-shrink: 1;`
+- `flex-basis: 0;`
+
+Ideal zur Definition von Layout-Verhältnissen  
+(z. B. `flex: 1`, `flex: 2`, `flex: 3`)
+
+🧠 **Wichtige Konzepte**
+- Die Stärke von Flexbox liegt im **Wachsen und Schrumpfen**
+- `flex-basis` bestimmt die Startgröße eines Elements
+- Das `flex`-Shorthand ist das wichtigste Werkzeug für responsive Flexbox-Layouts
+
