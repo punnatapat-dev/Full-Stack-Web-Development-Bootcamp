@@ -220,4 +220,9 @@ Ideal zur Definition von Layout-Verhältnissen
 - Die Stärke von Flexbox liegt im **Wachsen und Schrumpfen**
 - `flex-basis` bestimmt die Startgröße eines Elements
 - Das `flex`-Shorthand ist das wichtigste Werkzeug für responsive Flexbox-Layouts
+- 
+---
+
+🌐 Live Demo:
+https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-09-flexbox/
 
