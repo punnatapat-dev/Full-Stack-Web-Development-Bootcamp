@@ -130,3 +130,10 @@ Größe der automatisch erzeugten Bereiche steuerbar mit:
 - `minmax()` → kontrollierte Responsiveness  
 - `repeat()` → kürzerer, sauberer Code  
 - `grid-auto-*` → Kontrolle über automatisch erzeugte Items
+
+---
+
+- 🧮 ****Projekt: Mondrian Painting****
+  - 🧩 [Source Code](./section-10-grid/index.html)
+  - 🌐 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-10-grid/
