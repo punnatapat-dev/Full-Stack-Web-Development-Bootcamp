@@ -87,3 +87,14 @@ Projects and learning notes from
   - 🧩 [Source Code](./section-09-flexbox/index.html)
   - 🌐 **Live Demo:**  
     https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-09-flexbox/
+
+---
+
+### 🔷 Section 10: 📦 CSS Grid
+
+- 📘 **[CSS Grid – Notes](./section-10-grid/)**
+
+- 🧮 ****Projekt: Flexbox Preistabelle****
+  - 🧩 [Source Code](./section-10-grid/index.html)
+  - 🌐 **Live Demo:**  
+    https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-10-grid/
