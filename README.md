@@ -94,7 +94,7 @@ Projects and learning notes from
 
 - 📘 **[CSS Grid – Notes](./section-10-grid/)**
 
-- 🧮 ****Projekt: Flexbox Preistabelle****
+- 🧮 ****Projekt: Mondrian Painting****
   - 🧩 [Source Code](./section-10-grid/index.html)
   - 🌐 **Live Demo:**  
     https://punnatapat-dev.github.io/Full-Stack-Web-Development-Bootcamp/section-10-grid/
